@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Meganull</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Feb 2024 13:08:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[jihadshokor]]></dc:creator>
+		<pubDate>Thu, 02 Dec 2021 13:37:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://websitebuilder-demo.net/ekstra/?p=1</guid>
+
+					<description><![CDATA[Home Portfolio About Contact Our Services With 5+ years of industry experience, insert text here Game Development in Unity &#38; Unreal Engine 3D assets Production and Optimization UX/UI Design All rights reserved © 2024 by Meganull Interactive]]></description>
+										<content:encoded><![CDATA[<div class="brz-root__container brz-reset-all">
+<section id="kN2Ghivnvlyu" class="brz-section brz-css-iEgGg brz-css-l_Bvt">
+<div class="brz-section__content brz-section--boxed brz-css-tJyns brz-css-lTcMc" data-brz-custom-id="uPC0_F9qzzVN">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-container brz-css-zyDrf">
+<div class="brz-row__container brz-css-z8n8f" data-brz-custom-id="rRweVi6ejBnn">
+<div class="brz-bg"></div>
+<div class="brz-row brz-css-eC6B8 brz-css-tKQEM">
+<div class="brz-columns brz-css-oDYAh brz-css-oIiKV" data-brz-custom-id="m0e9It7Htyre">
+<div class="brz-bg"></div>
+<div class="brz-column__items brz-css-lYFFq brz-css-fYvxO">
+<div id class="brz-css-zs6dD brz-css-jMqdg brz-wrapper">
+<div class="brz-image brz-css-wJ4He" data-brz-custom-id="g6D2NNEgoVIZ"><picture class="brz-picture brz-d-block brz-p-relative brz-css-ozlhW"><source srcset="/wp-content/uploads/brizy/imgs/Logo_Dark_Wide-272x68x12x0x249x68x1708346409.png 1x, /wp-content/uploads/brizy/wp-f60f8dc228c2eac3c5852edc50a5ed9d.png 2x" media="(min-width: 992px)"><source srcset="/wp-content/uploads/brizy/wp-f60f8dc228c2eac3c5852edc50a5ed9d.png 1x, /wp-content/uploads/brizy/wp-f60f8dc228c2eac3c5852edc50a5ed9d.png 2x" media="(min-width: 768px)"><img decoding="async" class="brz-img" srcset="/wp-content/uploads/brizy/wp-f60f8dc228c2eac3c5852edc50a5ed9d.png 1x, /wp-content/uploads/brizy/wp-f60f8dc228c2eac3c5852edc50a5ed9d.png 2x" src="/wp-content/uploads/brizy/imgs/Logo_Dark_Wide-272x68x12x0x249x68x1708346409.png" alt="" draggable="false" loading="lazy"></picture></div>
+</div>
+</div>
+</div>
+<div class="brz-columns brz-css-oDYAh brz-css-iF05y" data-brz-custom-id="gnvt5EG8ZwYv">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-column__items brz-css-lYFFq brz-css-ccNWv">
+<div class="brz-wrapper-clone brz-css-ezcWP brz-css-tWmyy">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-dHuIc brz-css-qFUdP" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="dRpgSUHBlEty"><a class="brz-a brz-btn brz-css-qoLM8 brz-css-kff0f" href target="_self" rel="noopener" data-brz-link-type="external" data-brz-custom-id="dRpgSUHBlEty"><span data-brz-translate-text="1" class="brz-span brz-text__editor" contenteditable="false"></span></a></div>
+<div class="brz-wrapper-clone__item" id="pXEY_KNzpadC"><a class="brz-a brz-btn brz-css-qoLM8 brz-css-s2lgp" href target="_self" rel="noopener" data-brz-link-type="page" data-brz-custom-id="pXEY_KNzpadC"><span data-brz-translate-text="1" class="brz-span brz-text__editor" contenteditable="false">Home</span></a></div>
+<div class="brz-wrapper-clone__item" id="aDP1ZPFSZMFN"><a class="brz-a brz-btn brz-css-qoLM8 brz-css-wtGfE" href target="_self" rel="noopener" data-brz-link-type="page" data-brz-custom-id="aDP1ZPFSZMFN"><span data-brz-translate-text="1" class="brz-span brz-text__editor" contenteditable="false">Portfolio</span></a></div>
+<div class="brz-wrapper-clone__item" id="rcPaMqsr0BwO"><a class="brz-a brz-anchor brz-btn brz-css-qoLM8 brz-css-lQXDW" href="#byujwrakmdhguvdcurcbvncpifaeivfcyoml" target="_self" rel="noopener" data-brz-link-type="anchor" data-brz-custom-id="rcPaMqsr0BwO"><span data-brz-translate-text="1" class="brz-span brz-text__editor" contenteditable="false">About</span></a></div>
+<div class="brz-wrapper-clone__item" id="gnOpVe_bbthg"><a class="brz-a brz-anchor brz-btn brz-css-qoLM8 brz-css-vhs6s" href="#fkqwhgdxapahjibtewpllnnwgzpdlnjnihwv" target="_self" rel="noopener" data-brz-link-type="anchor" data-brz-custom-id="gnOpVe_bbthg"><span data-brz-translate-text="1" class="brz-span brz-text__editor" contenteditable="false">Contact</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="deOUC05xZ2fK" class="brz-section brz-css-iEgGg">
+<div class="brz-section__content brz-section--boxed brz-css-tJyns brz-css-euvW6" data-brz-custom-id="c0v2K6TA5Tyl">
+<div class="brz-bg">
+<div class="brz-bg-image"></div>
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-container brz-css-zyDrf">
+<div id class="brz-css-zs6dD brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-x1uT8" data-brz-custom-id="nPjEX8ohpWMX">
+<div data-brz-translate-text="1">
+<h2 class="brz-text-lg-center brz-tp-lg-heading2 brz-css-dZ8vT" data-uniq-id="ljeB7" data-generated-css="brz-css-of0AR"><span class="brz-cp-color8">Our Services</span></h2>
+</div>
+</div>
+</div>
+<div id class="brz-css-zs6dD brz-css-seVFb brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-x1uT8" data-brz-custom-id="urJuVKEX_hSq">
+<div data-brz-translate-text="1">
+<p class="brz-text-lg-center brz-tp-lg-subtitle brz-css-uW7tW" data-uniq-id="iYlsa" data-generated-css="brz-css-upRcw"><span class="brz-cp-color8">With 5+ years of industry experience, insert text here</span></p>
+</div>
+</div>
+</div>
+<div id class="brz-css-zs6dD brz-css-lK0xC brz-wrapper">
+<div class="brz-spacer brz-css-q5opv brz-css-jcnY1"></div>
+</div>
+<div class="brz-row__container brz-css-z8n8f" data-brz-custom-id="wCGOYqisu247">
+<div class="brz-bg"></div>
+<div class="brz-row brz-css-eC6B8 brz-css-tKQEM">
+<div class="brz-columns brz-css-oDYAh brz-css-dAPGd" data-brz-custom-id="ac0oWjtxZjLp">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-column__items brz-css-lYFFq brz-css-dOha4">
+<div class="brz-wrapper-clone brz-css-ezcWP">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-dHuIc" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="lvD_bVgqxwtL">
+<div class="brz-icon__container" data-brz-custom-id="lvD_bVgqxwtL"><span class="brz-icon brz-span brz-css-f8KG4 brz-css-trkLw"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 512" class="brz-icon-svg align-[initial]" data-type="fa" data-name="gamepad"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M192 64C86 64 0 150 0 256s86 192 192 192h256c106 0 192-86 192-192S554 64 448 64H192zm304 104a40 40 0 1 1 0 80 40 40 0 1 1 0-80zM392 304a40 40 0 1 1 80 0 40 40 0 1 1-80 0zM168 200c0-13.3 10.7-24 24-24s24 10.7 24 24v32h32c13.3 0 24 10.7 24 24s-10.7 24-24 24h-32v32c0 13.3-10.7 24-24 24s-24-10.7-24-24v-32h-32c-13.3 0-24-10.7-24-24s10.7-24 24-24h32v-32z"/></svg></span></div>
+</div>
+</div>
+</div>
+<div id class="brz-css-zs6dD brz-css-pU3pp brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-x1uT8" data-brz-custom-id="lvyLGWfExCzf">
+<div data-brz-translate-text="1">
+<h5 class="brz-tp-lg-heading5 brz-text-lg-center brz-css-jPaj9" data-uniq-id="w3unp" data-generated-css="brz-css-jCG9n"><span class="brz-cp-color8">Game Development in Unity &amp; Unreal Engine</span></h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="brz-columns brz-css-oDYAh brz-css-mgPF7" data-brz-custom-id="fqfovS6IUFtm">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-column__items brz-css-lYFFq brz-css-qSUBk">
+<div class="brz-wrapper-clone brz-css-ezcWP">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-dHuIc" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="bsdkUuRyhHjl">
+<div class="brz-icon__container" data-brz-custom-id="bsdkUuRyhHjl"><span class="brz-icon brz-span brz-css-f8KG4 brz-css-l6cfN"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 512" class="brz-icon-svg align-[initial]" data-type="fa" data-name="gamepad"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M192 64C86 64 0 150 0 256s86 192 192 192h256c106 0 192-86 192-192S554 64 448 64H192zm304 104a40 40 0 1 1 0 80 40 40 0 1 1 0-80zM392 304a40 40 0 1 1 80 0 40 40 0 1 1-80 0zM168 200c0-13.3 10.7-24 24-24s24 10.7 24 24v32h32c13.3 0 24 10.7 24 24s-10.7 24-24 24h-32v32c0 13.3-10.7 24-24 24s-24-10.7-24-24v-32h-32c-13.3 0-24-10.7-24-24s10.7-24 24-24h32v-32z"/></svg></span></div>
+</div>
+</div>
+</div>
+<div id class="brz-css-zs6dD brz-css-f0tyf brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-x1uT8" data-brz-custom-id="rNH4JKN5gTFN">
+<div data-brz-translate-text="1">
+<h5 class="brz-tp-lg-heading5 brz-text-lg-center brz-css-k3cAN" data-uniq-id="fm7mz" data-generated-css="brz-css-mZwSD"><span class="brz-cp-color8">3D assets Production and Optimization</span></h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="brz-columns brz-css-oDYAh brz-css-z5CuE" data-brz-custom-id="v3UaU0lds6in">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-column__items brz-css-lYFFq brz-css-dj6UW">
+<div class="brz-wrapper-clone brz-css-ezcWP">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-dHuIc" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="lrRdDu95NKZD">
+<div class="brz-icon__container" data-brz-custom-id="lrRdDu95NKZD"><span class="brz-icon brz-span brz-css-f8KG4 brz-css-jkONQ"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 512" class="brz-icon-svg align-[initial]" data-type="fa" data-name="gamepad"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M192 64C86 64 0 150 0 256s86 192 192 192h256c106 0 192-86 192-192S554 64 448 64H192zm304 104a40 40 0 1 1 0 80 40 40 0 1 1 0-80zM392 304a40 40 0 1 1 80 0 40 40 0 1 1-80 0zM168 200c0-13.3 10.7-24 24-24s24 10.7 24 24v32h32c13.3 0 24 10.7 24 24s-10.7 24-24 24h-32v32c0 13.3-10.7 24-24 24s-24-10.7-24-24v-32h-32c-13.3 0-24-10.7-24-24s10.7-24 24-24h32v-32z"/></svg></span></div>
+</div>
+</div>
+</div>
+<div id class="brz-css-zs6dD brz-css-larXk brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-x1uT8" data-brz-custom-id="prKyQrjF_aTD">
+<div data-brz-translate-text="1">
+<h5 class="brz-text-lg-center brz-tp-lg-heading5 brz-css-dpsLJ" data-generated-css="brz-css-noKpD" data-uniq-id="bWFMw"><span class="brz-cp-color8">UX/UI Design</span></h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="o_5PyNBL_gJ9" class="brz-section brz-css-iEgGg">
+<div class="brz-section__content brz-section--fullWidth brz-css-tJyns brz-css-nQMdt" data-brz-custom-id="pJRv_pvDPLDv">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-container brz-css-zyDrf brz-css-fjylO">
+<div class="brz-row__container brz-css-z8n8f brz-css-xK3dp" data-brz-custom-id="m_j3HkjxIZQ_">
+<div class="brz-bg"></div>
+<div class="brz-row brz-css-eC6B8 brz-css-tKQEM">
+<div class="brz-columns brz-css-oDYAh brz-css-sodJ4" data-brz-custom-id="cXiOYDD5QI3K">
+<div class="brz-bg"></div>
+<div class="brz-column__items brz-css-lYFFq brz-css-rzRcz">
+<div id class="brz-css-zs6dD brz-css-kz61I brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-x1uT8" data-brz-custom-id="bb5XLDSufghc">
+<div data-brz-translate-text="1">
+<p class="brz-tp-lg-paragraph brz-tp-sm-paragraph brz-text-lg-left brz-text-xs-center brz-tp-xs-paragraph brz-css-b386d" data-generated-css="brz-css-aEy20" data-uniq-id="lQzSR"><span class="brz-cp-color8" style="opacity: 0.7;">All rights reserved © 2024 by Meganull Interactive</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="brz-columns brz-css-oDYAh brz-css-ePzeH" data-brz-custom-id="gaVj0z0q3RBH">
+<div class="brz-bg"></div>
+<div class="brz-column__items brz-css-lYFFq brz-css-y9AP1">
+<div class="brz-wrapper-clone brz-css-ezcWP brz-css-iwTdm">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-dHuIc brz-css-yTvVu" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="vpEXZALSMn2o">
+<div class="brz-icon__container" data-brz-custom-id="vpEXZALSMn2o"><span class="brz-icon brz-span brz-css-f8KG4 brz-css-sgolQ"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="brz-icon-svg align-[initial]" data-type="fa" data-name="x-twitter"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8l164.9-188.5L26.8 48h145.6l100.5 132.9L389.2 48zm-24.8 373.8h39.1L151.1 88h-42l255.3 333.8z"/></svg></span></div>
+</div>
+<div class="brz-wrapper-clone__item" id="gGmubmLdovYi">
+<div class="brz-icon__container" data-brz-custom-id="gGmubmLdovYi"><span class="brz-icon brz-span brz-css-f8KG4 brz-css-r8xls"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 512" class="brz-icon-svg align-[initial]" data-type="fa" data-name="discord"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485.065 485.065 0 0 0 404.081 32.03a1.816 1.816 0 0 0-1.923.91 337.461 337.461 0 0 0-14.9 30.6 447.848 447.848 0 0 0-134.426 0 309.541 309.541 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.689 483.689 0 0 0-119.688 37.107 1.712 1.712 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.016 2.016 0 0 0 .765 1.375 487.666 487.666 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321.173 321.173 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251.047 251.047 0 0 0 9.109-7.137 1.819 1.819 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.812 1.812 0 0 1 1.924.233 234.533 234.533 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.407 301.407 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391.055 391.055 0 0 0 30.014 48.815 1.864 1.864 0 0 0 2.063.7A486.048 486.048 0 0 0 610.7 405.729a1.882 1.882 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541ZM222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241Zm195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241Z"/></svg></span></div>
+</div>
+<div class="brz-wrapper-clone__item" id="rrC0RBNn8DeR">
+<div class="brz-icon__container" data-brz-custom-id="rrC0RBNn8DeR"><span class="brz-icon brz-span brz-css-f8KG4 brz-css-eURo0"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="brz-icon-svg align-[initial]" data-type="fa" data-name="reddit-alien"><path d="M440.3 203.5c-15 0-28.2 6.2-37.9 15.9-35.7-24.7-83.8-40.6-137.1-42.3L293 52.3l88.2 19.8c0 21.6 17.6 39.2 39.2 39.2 22 0 39.7-18.1 39.7-39.7s-17.6-39.7-39.7-39.7c-15.4 0-28.7 9.3-35.3 22l-97.4-21.6c-4.9-1.3-9.7 2.2-11 7.1L246.3 177c-52.9 2.2-100.5 18.1-136.3 42.8-9.7-10.1-23.4-16.3-38.4-16.3-55.6 0-73.8 74.6-22.9 100.1-1.8 7.9-2.6 16.3-2.6 24.7 0 83.8 94.4 151.7 210.3 151.7 116.4 0 210.8-67.9 210.8-151.7 0-8.4-.9-17.2-3.1-25.1 49.9-25.6 31.5-99.7-23.8-99.7zM129.4 308.9c0-22 17.6-39.7 39.7-39.7 21.6 0 39.2 17.6 39.2 39.7 0 21.6-17.6 39.2-39.2 39.2-22 .1-39.7-17.6-39.7-39.2zm214.3 93.5c-36.4 36.4-139.1 36.4-175.5 0-4-3.5-4-9.7 0-13.7 3.5-3.5 9.7-3.5 13.2 0 27.8 28.5 120 29 149 0 3.5-3.5 9.7-3.5 13.2 0 4.1 4 4.1 10.2.1 13.7zm-.8-54.2c-21.6 0-39.2-17.6-39.2-39.2 0-22 17.6-39.7 39.2-39.7 22 0 39.7 17.6 39.7 39.7-.1 21.5-17.7 39.2-39.7 39.2z"/></svg></span></div>
+</div>
+<div class="brz-wrapper-clone__item" id="ajq_QLet3h69">
+<div class="brz-icon__container" data-brz-custom-id="ajq_QLet3h69"><span class="brz-icon brz-span brz-css-f8KG4 brz-css-rtQ6z"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" class="brz-icon-svg align-[initial]" data-type="fa" data-name="tiktok"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M448 209.91a210.06 210.06 0 0 1-122.77-39.25v178.72A162.55 162.55 0 1 1 185 188.31v89.89a74.62 74.62 0 1 0 52.23 71.18V0h88a121.18 121.18 0 0 0 1.86 22.17A122.18 122.18 0 0 0 381 102.39a121.43 121.43 0 0 0 67 20.14Z"/></svg></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<p>    <!-- version:1708348117 --></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
