@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Meganull</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Feb 2024 13:40:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>./../hello-world/index.html</link>
+					<comments>./../hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[jihadshokor]]></dc:creator>
+		<pubDate>Thu, 02 Dec 2021 13:37:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://websitebuilder-demo.net/ekstra/?p=1</guid>
+
+					<description><![CDATA[Home Portfolio About Contact Our Services With 5+ years of industry experience, insert text here Game Development in Unity &#38; Unreal Engine 3D assets Production and Optimization UX/UI Design All rights reserved © 2024 by Meganull Interactive]]></description>
+										<content:encoded><![CDATA[<div class="brz-root__container brz-reset-all">
+<section id="kN2Ghivnvlyu" class="brz-section brz-css-j5t1x brz-css-p4ohq">
+<div class="brz-section__content brz-section--boxed brz-css-nSdsA brz-css-hEvUX" data-brz-custom-id="uPC0_F9qzzVN">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-container brz-css-zNotl">
+<div class="brz-row__container brz-css-eW6JD" data-brz-custom-id="rRweVi6ejBnn">
+<div class="brz-bg"></div>
+<div class="brz-row brz-css-gvohL brz-css-rkmqJ">
+<div class="brz-columns brz-css-tDZbz brz-css-uPueG" data-brz-custom-id="m0e9It7Htyre">
+<div class="brz-bg"></div>
+<div class="brz-column__items brz-css-p6oBZ brz-css-rnHrq">
+<div id class="brz-css-p1XmT brz-css-p6Uoe brz-wrapper">
+<div class="brz-image brz-css-mUSzK" data-brz-custom-id="g6D2NNEgoVIZ"><img decoding="async" class="brz-img" src="./../wp-content/uploads/brizy/imgs/Logo_Dark_Wide-272x68x12x0x249x68x1708346409.png" alt="" loading="lazy"></div>
+</div>
+</div>
+</div>
+<div class="brz-columns brz-css-tDZbz brz-css-y8nuP" data-brz-custom-id="gnvt5EG8ZwYv">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-column__items brz-css-p6oBZ brz-css-q6_M9">
+<div class="brz-wrapper-clone brz-css-ulaeQ brz-css-cPOBw">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-hSA8a brz-css-kyTvZ" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="dRpgSUHBlEty"><a class="brz-a brz-btn brz-css-z4DTe brz-css-hkIrn" href target="_self" rel="noopener" data-brz-link-type="external" data-brz-custom-id="dRpgSUHBlEty"><span data-brz-translate-text="1" class="brz-span brz-text__editor"></span></a></div>
+<div class="brz-wrapper-clone__item" id="pXEY_KNzpadC"><a class="brz-a brz-btn brz-css-z4DTe brz-css-vqxTO" href target="_self" rel="noopener" data-brz-link-type="page" data-brz-custom-id="pXEY_KNzpadC"><span data-brz-translate-text="1" class="brz-span brz-text__editor">Home</span></a></div>
+<div class="brz-wrapper-clone__item" id="aDP1ZPFSZMFN"><a class="brz-a brz-btn brz-css-z4DTe brz-css-l4kyg" href target="_self" rel="noopener" data-brz-link-type="page" data-brz-custom-id="aDP1ZPFSZMFN"><span data-brz-translate-text="1" class="brz-span brz-text__editor">Portfolio</span></a></div>
+<div class="brz-wrapper-clone__item" id="rcPaMqsr0BwO"><a class="brz-a brz-anchor brz-btn brz-css-z4DTe brz-css-zWxya" href="#byujwrakmdhguvdcurcbvncpifaeivfcyoml" target="_self" rel="noopener" data-brz-link-type="anchor" data-brz-custom-id="rcPaMqsr0BwO"><span data-brz-translate-text="1" class="brz-span brz-text__editor">About</span></a></div>
+<div class="brz-wrapper-clone__item" id="gnOpVe_bbthg"><a class="brz-a brz-anchor brz-btn brz-css-z4DTe brz-css-qko7Q" href="#fkqwhgdxapahjibtewpllnnwgzpdlnjnihwv" target="_self" rel="noopener" data-brz-link-type="anchor" data-brz-custom-id="gnOpVe_bbthg"><span data-brz-translate-text="1" class="brz-span brz-text__editor">Contact</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="deOUC05xZ2fK" class="brz-section brz-css-j5t1x">
+<div class="brz-section__content brz-section--boxed brz-css-nSdsA brz-css-gKBYI" data-brz-custom-id="c0v2K6TA5Tyl">
+<div class="brz-bg">
+<div class="brz-bg-image"></div>
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-container brz-css-zNotl">
+<div id class="brz-css-p1XmT brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-cIeSs" data-brz-custom-id="nPjEX8ohpWMX">
+<div data-brz-translate-text="1">
+<h2 class="brz-text-lg-center brz-tp-lg-heading2 brz-css-jjdfE" data-uniq-id="ljeB7" data-generated-css="brz-css-of0AR"><span class="brz-cp-color8">Our Services</span></h2>
+</div>
+</div>
+</div>
+<div id class="brz-css-p1XmT brz-css-kvZI8 brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-cIeSs" data-brz-custom-id="urJuVKEX_hSq">
+<div data-brz-translate-text="1">
+<p class="brz-text-lg-center brz-tp-lg-subtitle brz-css-egjKK" data-uniq-id="iYlsa" data-generated-css="brz-css-upRcw"><span class="brz-cp-color8">With 5+ years of industry experience, insert text here</span></p>
+</div>
+</div>
+</div>
+<div id class="brz-css-p1XmT brz-css-cpvUY brz-wrapper">
+<div class="brz-spacer brz-css-gpm4T brz-css-q5mYb"></div>
+</div>
+<div class="brz-row__container brz-css-eW6JD" data-brz-custom-id="wCGOYqisu247">
+<div class="brz-bg"></div>
+<div class="brz-row brz-css-gvohL brz-css-rkmqJ">
+<div class="brz-columns brz-css-tDZbz brz-css-ubFBa" data-brz-custom-id="ac0oWjtxZjLp">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-column__items brz-css-p6oBZ brz-css-jsE88">
+<div class="brz-wrapper-clone brz-css-ulaeQ">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-hSA8a" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="lvD_bVgqxwtL">
+<div class="brz-icon__container" data-brz-custom-id="lvD_bVgqxwtL"><span class="brz-icon brz-span brz-css-x7lHD brz-css-glu0b"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--></span></div>
+</div>
+</div>
+</div>
+<div id class="brz-css-p1XmT brz-css-nlfnb brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-cIeSs" data-brz-custom-id="lvyLGWfExCzf">
+<div data-brz-translate-text="1">
+<h5 class="brz-tp-lg-heading5 brz-text-lg-center brz-css-ngXqm" data-uniq-id="w3unp" data-generated-css="brz-css-jCG9n"><span class="brz-cp-color8">Game Development in Unity &amp; Unreal Engine</span></h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="brz-columns brz-css-tDZbz brz-css-mryT2" data-brz-custom-id="fqfovS6IUFtm">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-column__items brz-css-p6oBZ brz-css-tRjm6">
+<div class="brz-wrapper-clone brz-css-ulaeQ">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-hSA8a" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="bsdkUuRyhHjl">
+<div class="brz-icon__container" data-brz-custom-id="bsdkUuRyhHjl"><span class="brz-icon brz-span brz-css-x7lHD brz-css-rjI2J"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--></span></div>
+</div>
+</div>
+</div>
+<div id class="brz-css-p1XmT brz-css-r_eMt brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-cIeSs" data-brz-custom-id="rNH4JKN5gTFN">
+<div data-brz-translate-text="1">
+<h5 class="brz-tp-lg-heading5 brz-text-lg-center brz-css-x0SAu" data-uniq-id="fm7mz" data-generated-css="brz-css-mZwSD"><span class="brz-cp-color8">3D assets Production and Optimization</span></h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="brz-columns brz-css-tDZbz brz-css-eAz9m" data-brz-custom-id="v3UaU0lds6in">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-column__items brz-css-p6oBZ brz-css-dWTWu">
+<div class="brz-wrapper-clone brz-css-ulaeQ">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-hSA8a" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="lrRdDu95NKZD">
+<div class="brz-icon__container" data-brz-custom-id="lrRdDu95NKZD"><span class="brz-icon brz-span brz-css-x7lHD brz-css-oF_m_"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--></span></div>
+</div>
+</div>
+</div>
+<div id class="brz-css-p1XmT brz-css-o1JRM brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-cIeSs" data-brz-custom-id="prKyQrjF_aTD">
+<div data-brz-translate-text="1">
+<h5 class="brz-text-lg-center brz-tp-lg-heading5 brz-css-tw9o5" data-generated-css="brz-css-noKpD" data-uniq-id="bWFMw"><span class="brz-cp-color8">UX/UI Design</span></h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="o_5PyNBL_gJ9" class="brz-section brz-css-j5t1x">
+<div class="brz-section__content brz-section--fullWidth brz-css-nSdsA brz-css-q0CZ3" data-brz-custom-id="pJRv_pvDPLDv">
+<div class="brz-bg">
+<div class="brz-bg-color"></div>
+</div>
+<div class="brz-container brz-css-zNotl brz-css-abxw0">
+<div class="brz-row__container brz-css-eW6JD brz-css-f1I9q" data-brz-custom-id="m_j3HkjxIZQ_">
+<div class="brz-bg"></div>
+<div class="brz-row brz-css-gvohL brz-css-rkmqJ">
+<div class="brz-columns brz-css-tDZbz brz-css-doo_0" data-brz-custom-id="cXiOYDD5QI3K">
+<div class="brz-bg"></div>
+<div class="brz-column__items brz-css-p6oBZ brz-css-jfglN">
+<div id class="brz-css-p1XmT brz-css-uvRzN brz-wrapper">
+<div class="brz-rich-text brz-rich-text__custom brz-css-cIeSs" data-brz-custom-id="bb5XLDSufghc">
+<div data-brz-translate-text="1">
+<p class="brz-tp-lg-paragraph brz-tp-sm-paragraph brz-text-lg-left brz-text-xs-center brz-tp-xs-paragraph brz-css-qQoeL" data-generated-css="brz-css-aEy20" data-uniq-id="lQzSR"><span class="brz-cp-color8">All rights reserved © 2024 by Meganull Interactive</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="brz-columns brz-css-tDZbz brz-css-a5ZuR" data-brz-custom-id="gaVj0z0q3RBH">
+<div class="brz-bg"></div>
+<div class="brz-column__items brz-css-p6oBZ brz-css-swymy">
+<div class="brz-wrapper-clone brz-css-ulaeQ brz-css-r2zbQ">
+<div class="brz-d-xs-flex brz-flex-xs-wrap brz-css-hSA8a brz-css-fLOCq" data-brz-custom-id>
+<div class="brz-wrapper-clone__item" id="vpEXZALSMn2o">
+<div class="brz-icon__container" data-brz-custom-id="vpEXZALSMn2o"><span class="brz-icon brz-span brz-css-x7lHD brz-css-h6J0S"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--></span></div>
+</div>
+<div class="brz-wrapper-clone__item" id="gGmubmLdovYi">
+<div class="brz-icon__container" data-brz-custom-id="gGmubmLdovYi"><span class="brz-icon brz-span brz-css-x7lHD brz-css-tRAsy"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--></span></div>
+</div>
+<div class="brz-wrapper-clone__item" id="rrC0RBNn8DeR">
+<div class="brz-icon__container" data-brz-custom-id="rrC0RBNn8DeR"><span class="brz-icon brz-span brz-css-x7lHD brz-css-fe7E7"></span></div>
+</div>
+<div class="brz-wrapper-clone__item" id="ajq_QLet3h69">
+<div class="brz-icon__container" data-brz-custom-id="ajq_QLet3h69"><span class="brz-icon brz-span brz-css-x7lHD brz-css-z5L8K"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com/ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<p>    <!-- version:1708350051 --></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
